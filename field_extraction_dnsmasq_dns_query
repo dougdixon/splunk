@@ -1,0 +1,1 @@
+query\[A\] (?<queried_name>\S+) from (?<src_ip>\S+)
