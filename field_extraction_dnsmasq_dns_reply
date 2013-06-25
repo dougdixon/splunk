@@ -1,0 +1,1 @@
+reply (?<queried_name>\S+) is (?<ip>\S+)
