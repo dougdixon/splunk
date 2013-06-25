@@ -1,0 +1,1 @@
+DHCPACK\(eth\d\) (?<dhcp_client_ip>\d+\.\d+\.\d+\.\d+) (?<dhcp_client_mac>\w+:\w+:\w+:\w+:\w+:\w+) (?<dhcp_hostname>.*)
